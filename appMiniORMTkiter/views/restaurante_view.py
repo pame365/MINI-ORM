@@ -1,0 +1,4 @@
+
+
+class RestauranteView():
+    pass 
